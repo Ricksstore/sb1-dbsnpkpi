@@ -1,4 +1,0 @@
-npm install
-git add package.json package-lock.json
-git commit -m "Add package.json and package-lock.json"
-git push origin main
